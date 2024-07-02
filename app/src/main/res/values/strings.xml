@@ -1,0 +1,299 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> see the timetable </item>
+        <item> get subject syllabus </item>
+        <item> see the faculty details </item>
+        <item> for extra resources </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item> Computer Networks </item>
+        <item> Management Entrepreneurship </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+        <item> Software Engineering </item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item> Management Entrepreneurship </item>
+        <item> Emerging Technologies </item>
+        <item> Object Oriented Modelling and Design </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item> Elective - MAD, Crypto </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+        <item> Software Engineering </item>
+        <item> Computer Networks </item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item> Management Entrepreneurship </item>
+        <item> Computer Networks </item>
+        <item> Object Oriented Modelling and Design </item>
+        <item> Emerging Technologies </item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> Software Engineering </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+        <item> Computer Networks </item>
+        <item> Elective - MAD, Crypto </item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item> Elective - MAD, Crypto </item>
+        <item> Object Oriented Modelling and Design </item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:15 PM - 01:15 PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:15 PM - 01:15 PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:15 PM - 01:15 PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:15 PM - 01:15 PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:15 AM - 12:15 PM</item>
+        <item>12:15 PM - 01:15 PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item> Management Entrepreneurship </item>
+        <item> Computer Networks </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+        <item> Emerging Technologies </item>
+        <item> Software Engineering </item>
+        <item> Object Oriented Modelling and Design </item>
+        <item> Mobile Application Development </item>
+        <item> Cryptography </item>
+    </string-array>
+
+    <string-array name="ME">
+        <item>Management: Introduction – Meaning – nature and characteristics of Management, Scope and Functional areas of management – Management as a science, art and profession – Management and Administration – Roles of Management, Levels of Management. Planning: Nature, importance and purpose of planning process – Objectives – Types of plans.</item>
+        <item>Organizing And Staffing: Nature and purpose of organization – Principles of organization – types of organization – Departmentation – Committees-Centralization Vs Decentralization of authority and responsibility – Span of control – MBO and MBE (Meaning Only) Nature and importance of staffing. (Case studies discussion)</item>
+        <item>Directing and Controlling: Meaning and nature of directing –Leadership styles, Motivation (Definition),characteristics, motivational theories (Maslow’s theory, theory ‘X’ and ‘Y’), Meaning and steps in controlling – Essentials of a sound control system – Methods of establishing control (in brief).</item>
+        <item>Entrepreneur: Meaning of Entrepreneur; Evolution of the Concept, Functions of an Entrepreneur, Types of Entrepreneur, and Entrepreneur – an emerging Class. Stages in entrepreneurial process; Role of entrepreneurs in Economic Development; Entrepreneurship – its Barriers, EDP and its objectives (Case studies discussion, role play/group discussion)</item>
+        <item>Small Scale Industry: Definition; Characteristics; Objectives; Scope; role of SSI in Economic Development. Advantages of SSI, Steps to start an SSI, Impact of Liberalization, Privatization, Globalization on S.S.I, Effect of WTO/GATT. Overview of detailed project report/profile.
+        Startup India: Benefits, Policies. Action plan- simplification and Handholding, Funding Support and incentives, Industry-Academia Partnership and Incubation.
+        Salient features of Karnataka Startup Policy 2015-2020, Strategies encouraging entrepreneurship through NAIN. Venture capitalist, SSI funding schemes by banks and financial institutions, Government of India Initiatives on Thrust Areas,</item>
+        <item>1. Principles of Management – P.C.Tripathi, P.N.Reddy – Tata McGraw Hill.
+            \n2. Dynamics of Entrepreneurial Development and Management – Vasant Desai – Himalaya Publishing House.
+            \n3. Entrepreneurship Development – Poornima.M.Charantimath – Small Business Enterprises Pearson Education – 2006 (2 and 4).
+            \n4. Management and Entrepreneurship-N V R Naidu, IK International, 2008</item>
+        <item>1. Management Fundamentals – Concepts, Application, Skill Development – Robers Lusier – Thomson.
+            \n2. Entrepreneurship Development – S.S.Khanka – S.Chand and Co.
+            \n3. Management – Stephen Robbins – Pearson Education/PHI – 17th Edition, 2003.
+            \n4. http://www.startupindia.gov.in/
+            \n5. http://startup.karnataka.gov.in/docs/Startup_Policy_Karnataka.pdf</item>
+    </string-array>
+
+    <string-array name="CN">
+        <item>Introduction: Data Communications, Networks, The Internet, Protocols and Standards, Layered Tasks, The OSI model, Layers in OSI model, Addressing, Transmission Modes, Physical Layer:Analog and Digital Signals, Transmission Impairment, Data Rate limits, Performance. Digital Transmission: Digital-digital conversion (Only Line coding: Polar, Bipolar and Manchester coding), Analog-to-digital conversion (only PCM), Digital-to-analog.</item>
+        <item>Data Link Layer: Framing, Flow and Error Control, Protocols, Noiseless Channels, Simplest Protocol, stop-and-wait Protocol, Noisy channels, Stop-and-Wait Automatic Repeat Request, Go-Back-N Automatic Repeat Request, Selective Repeat Automatic Repeat Request HDLC, PPP (Framing, Transition phases only).</item>
+        <item>Network Layer: Internet Protocol (IP), IPV4-Sercvices, Addressing principles, DHCP, NAT, IP Header, Routing Protocols, Distance Vector Routing. Switching, Circuit Switched Networks, Packet Switching Networks, Datagram Networks, and Virtual Circuit Networks. Traffic management at the Packet level, Flow level, flow aggregate level.</item>
+        <item>Transport Layer: UDP, TCP Protocols, Congestion control and QoS, Tunneling, Virtual Private Networks, MPLS, Overlay networks. Multiple Access and Ethernet: Random access, Controlled Access, Channelization, Socket programming</item>
+        <item>Application Layer: Domain Name system, Remote Logging, Electronic Mail, File Transfer, WWW and HTTP, Network Management.</item>
+        <item>1. Behrouz A. Forouzan,: Data Communication and Networking, 4th Edition Tata McGraw-Hill, 2006.</item>
+        <item>1. Communication Networks – Fundamental Concepts and key architectures, Alberto Leon Garcia and IndraWidjaja, 2nd Edition, Tata McGraw-Hill, India
+            \n2. Computer and Communication Networks, Nadir F Mir, Pearson Education, India.
+            \n3. Larry L Peterson and Bruce S Davie: Computer Networks – A Systems Approach, 4thEdition, Elsevier, 2007.
+            \n4. Wayne Tomasi: Introduction to Data Communications and Networking, Pearson Education, 2005.</item>
+    </string-array>
+
+    <string-array name="AI">
+        <item>Introduction to Artificial Intelligence, Intelligent Agents: What is AI? Intelligent Agents: Agents and environment; The nature of environment; The structure of agents. Logical Agents: Logical Agents, Knowledge-Based Agents, The Wumpus World, Logic, Propositional logic Difference between Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), Supervised , Unsupervised Learning semi-supervised learning. Re-inforcement Learning, Regression vs Classification problems, How to become a practitioner with machine learning?, AI and ethics</item>
+        <item>First-Order Logic: Syntax and semantics of first-order logic; Using first-order logic. Inference in First-Order Logic and Reasoning: Inference in First-Order Logic. Propositional versus first-order inference; Unification and lifting, Forward chaining; Backward chaining; Resolution.</item>
+        <item>Supervised learning: Linear Regression and Classification: Linear Regression:Simple Linear Regression: Estimating the Coefficients, Assessing the Accuracy of the Coefficient Estimates, Assessing the Accuracy of the Model, Multiple Linear Regression: Estimating the Regression Coefficients Classification:Basic Concepts, Decision Tree Induction, Bayes Classification Methods, Model Based Evaluation and Selection. Techniques to improve classification accuracy, Bayesian Belief networks and Support Vector Machines</item>
+        <item>Unsupervised Learning Techniques: Clustering Clustering : Basic Concepts and Methods. Cluster Analysis overview. Partitioning Methods: K-means; Hierarchical Methods: Agglomerative versus Divisive Hierarchical Clustering , Distance Measures in Algorithmic Methods , BIRCH, Density Based: DBSCAN Evaluation of Clustering: Assessing Clustering Tendency, Determining the Number of Clusters, Measuring Clustering Quality.</item>
+        <item>Neural Networks and Deep Learning: Feed forward Neural networks : Unit, Expressing the Neural Network in Vector Form, Evaluating the output of the Neural Network, Types of Units/Activation Functions/Layers Deep Learning: Convolutional neural networks (CNN),Recursive (Recurrent) Neural Networks (RNN), Generative Adversarial Networks, Natural Language Processing.</item>
+        <item>1 Stuart Russel, Peter Norvig: Artificial Intelligence A Modern Approach, 3rd Edition,Pearson Education, 2003.
+            \n2 https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c23
+            “Data Mining Concepts and Techniques”, Jiawei Han, Micheline Kamber, Jian Pei,Elsevier (MK) 3rd Edition, 2012.
+            \n4 Deep Learning with Python: A Hands-on Introduction Nikhil Ketkar
+            \n5 An Introduction to Statistical Learning, with Applications in R (2013), by G.James, D.Witten, T. Hastie, and R. Tibshirani.</item>
+        <item>1 Tom M. Mitchell, “Machine Learning”, McGraw-Hill Education (INDIAN EDITION),2013. ( 1.1,1.2,1.3,4.2,4.4,4.5,4.6,4.7)
+            \n2 Nils J. Nilsson: Principles of Artificial Intelligence, Elsevier, 1980.</item>
+    </string-array>
+
+    <string-array name="ET">
+        <item>Introduction to RPA- What is Robotic Process Automation? Scope and Techniques of automation, Understanding Enterprise Processes, Robotic Process Automation (RPA)- What can RPA DO? Benefits Of RPA, Components of RPA, RPA Platform. Applications of RPA: - Differentiating the RPA from Automation Programming Review, Programming fundamentals from an RPA perspective, Future of automation.</item>
+        <item>Automation Anywhere: Introduction to AA, Automation Anywhere Enterprise Tool – An introduction AA Control Room, Control Room Settings, License Settings, All Menus, Theory, demonstration and hands on practice and experience on the system Recorders-Web Recorder, Screen Recorder, Smart Recorder, AA Commands- Read from CSV/Text, Excel, Database, Files/Folder, Error Handling, String Operation, Variables, Variable Operation, PDF Integration, Email Automation, OCR, Web Recorder.</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>1. Automation Anywhere Enterprise, Exercise Handbook V1.0
+            \n2. https://resources.automationanywhere.com/ebook</item>
+        <item>1. Introduction To RPA by Abhinav Sabharwal
+            \n2. Introduction to Robotic Process Automation: a Primer by by Frank Casale (Author),Rebecca Dilla (Author), Heidi Jaynes (Author), Lauren Livingston (Author).
+            \n3. Robotic Process Automation: Guide To Building Software Robots, Automate Repetitive Tasks and Become An RPA Consultantby Richard Murdoch.</item>
+    </string-array>
+
+    <string-array name="SE">
+        <item>Overview: FAQs about software engineering, Professional and ethical responsibility; Socio-Technical systems: Emergent system properties; Systems engineering; Organizations, people and computer systems; Legacy systems. Software Processes: Models, Process iteration, Process activities; The Rational Unified Process; Computer Aided Software Engineering.</item>
+        <item>Requirements Gathering and Analysis: Functional and non- functional requirements; User requirements; System requirements; Interface specification; The software requirements document. System Models: Context models; Behavioral models; Data models; Object models; Structured methods.</item>
+        <item>Software Design and Development Architectural Design: Architectural design decisions; System organization; Modular decomposition styles; Control styles.Development: Rapid Software Development: Agile methods; Extreme programming</item>
+        <item>Verification and Validation, Software Testing:Planning; Software inspections; Automated static analysis; Verification and formal methods. Software Testing: System testing; Component testing; Test case design; Test automation.</item>
+        <item>Software Evolution: Program evolution dynamics; Software maintenance; Evolution processes; Legacy system evolution. Project Management: Management Activities, Project Planning, Project Scheduling, Risk Management</item>
+        <item>Ian Sommerville: Software Engineering, 8th Edition, Pearson Education, 2007.</item>
+        <item>1. Devops : https://alison.com/courses/introduction-to-devops/content
+            \n2. Agile Project Management with Scrum- https://www.oreilly.com/library/view/agile-project-management/9780735619937/ch01.html
+            \n3. Roger S Pressman: Software Engineering-A Practitioners approach, 7th Edition, Tata McGraw Hill, 2007.
+            \n4. Pankaj Jalote: An Integrated Approach to Software Engineering, Wiley India, 2009.</item>
+    </string-array>
+
+    <string-array name="OOMD">
+        <item>Introduction, modeling concepts, class modeling, advanced class modeling : What is Object Orientation? What is OO development? OO themes; Evidence for usefulness of OO development; OO modeling history. Modeling as Design Technique: Modeling; abstraction; The three models. Class Modeling: Object and class concepts; Link and associations concepts; Generalization and inheritance; A sample class model; Navigation of class models; Association ends; N-ary associations; Aggregation; Abstract classes; Multiple inheritance; Metadata; Reification; Constraints; Derived data; Packages;</item>
+        <item>State Modeling, Interaction Modeling State Modeling: Events, States, Transitions and conditions; State diagrams; State diagram behavior; Advanced State Modeling: Nested state diagrams; Nested states; Signal generalization; Concurrency; A sample state model; Relation of class and state models; Interaction Modeling: Use case models; Sequence models; Activity models.</item>
+        <item>Process Overview, System Conception, Domain Analysis, Application Analysis: Process Overview: Development stages; Development life cycle. System Conception: Devising a system concept; Domain Analysis: Overview of analysis; Domain class model; Domain state model; Domain interaction model; Iterating the analysis.</item>
+        <item>System Design: Overview of system design; Estimating performance; Making a reuse plan; Breaking a system in to sub-systems; Identifying concurrency; Allocation of sub-systems; Management of data storage; Handling global resources; Choosing a software control strategy; Handling boundary conditions; Setting the trade-off priorities; Common architectural styles; Architecture of the ATM system as the example. Refactoring; Design optimization; Implementation Modeling: Overview of implementation; Fine-tuning classes; Fine-tuning generalizations; Realizing associations; Testing</item>
+        <item>Design Patterns: What is a pattern and what makes a pattern? Pattern categories; Relationships between patterns; Pattern description. Communication Patterns: Forwarder-Receiver; Publisher-Subscriber. IDIOMS: Management Patterns: View handler. Idioms: Introduction; What can idioms provide? Idioms and style; Counted Pointer example.</item>
+        <item>1. Michael Blaha, James Rumbaugh: Object-Oriented Modeling and Design with UML,2nd Edition, Pearson Education, 2005. (Chapters 1 to 17, 23)
+            \n2. Frank Buschmann, RegineMeunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture, A System of Patterns, Volume 1, John Wiley and Sons, 2007. (Chapters 1, 3.5, 3.6, 4)</item>
+        <item>1. Grady Booch et al: Object-Oriented Analysis and Design with Applications, 3rd Edition, Pearson Education, 2007.
+            \n2. Brahma Dathan, SarnathRamnath: Object-Oriented Analysis, Design, and Implementation, Universities Press, 2009.
+            \n3. Hans-Erik Eriksson, Magnus Penker, Brian Lyons, David Fado: UML 2 Toolkit, Wiley- Dreamtech India, 2004.
+            \n4. Simon Bennett, Steve McRobb and Ray Farmer: Object-Oriented Systems Analysis and Design Using UML, 2nd Edition, Tata McGraw-Hill, 2002.</item>
+    </string-array>
+
+    <string-array name="MAD">
+        <item>Overview to mobile development environments: Mobile Myths, Types of Mobile Apps, Benefits of a Mobile App, Understanding Mobile Platforms. Introduction to Android: Create Your First Android App, Layouts, Views and Resources, Text and Scrolling Views. Activities: Understanding Activities and Intents, The Activity Lifecycle and Managing State, Activities and Implicit Intents. Testing, debugging, and using support libraries: The Android Studio Debugger, Testing your App, The Android Support Library.</item>
+        <item>User interaction(UI): User Input Controls, Menus, Screen Navigation, Recycler View, Drawables, Styles, and Themes, Material Design, Providing Resources for Adaptive Layouts.</item>
+        <item>Background Tasks: AsyncTask and AsyncTask Loader, Connect to the Internet, Broadcast Receivers, and Services. Triggering, scheduling and optimizing background tasks: Notifications, Scheduling Alarms, Transferring Data Efficiently.</item>
+        <item>Preferences and Settings: Storing Data, Shared Preferences, App Settings. Storing data using SQLite: SQLite Primer, SQLite Database. Share Data Through Content Providers, Loading data using loaders: Loaders.</item>
+        <item>Mobile applications Security: Permissions, Performance and Security, Firebase and AdMob, Publishing Android Application.</item>
+        <item>1 Jeff McWherter, Scott Gowell : Professional Mobile Application Development, by John Wiley and Sons, Inc
+            \n2 A practical workbook: Android Developer Fundamentals Course(eBook – by Google:link:https://developers.google.com/training/courses/android-fundamentals)
+            \n3 Brian Hardy, Bill Phillips : Android Programming: The Big Nerd Ranch Guide (BigNerd Ranch Guides) 1st Edition.
+            \n4 Ed Burnette: Hello, Android: Introducing Googles Mobile Development Platform (Pragmatic Programmers) Third Edition.</item>
+        <item>1. https://www.tutorialspoint.com/android/android_tutorial.pdf</item>
+    </string-array>
+
+    <string-array name="CRY">
+        <item>Basic Concepts of Number Theory and Finite Fields: Divisibility and the divisibility algorithm, Euclidean algorithm, Modular arithmetic, Prime Numbers, Fermat’s and Euler’s theorem, Primality testing. Chinese Remainder theorem.</item>
+        <item>Classical Encryption Techniques: Symmetric cipher model, Substitution techniques, Transposition techniques, Symmetric Ciphers: Traditional Block Cipher structure, Data Encryption Standard (DES)</item>
+        <item>Pseudo-Random-Sequence Generators and Stream Ciphers: Linear Congruential Generators, Linear Feedback Shift Registers, Design and analysis of stream ciphers, Stream ciphers using LFSRs (Text 2: Chapter 16: Section 1, 2, 3, 4)</item>
+        <item>More number theory: Principles of Public-Key Cryptosystems: The RSA algorithm, AES algorithm, Diffie - Hellman Key Exchange, Elgamal Cryptographic System.</item>
+        <item>Cryptographic Hash Functions:Applications of Cryptographic Hash Functions, Two Simple Hash Functions, Requirements and Security, Hash Functions Based on Cipher Block Chaining, Secure Hash Algorithm (SHA). Digital Signatures: Digital Signatures, Elgamal Digital Signature Scheme.</item>
+        <item>1. William Stallings , “Cryptography and Network Security Principles and Practice”, Pearson Education Inc., 6th Edition, 2014, ISBN: 978-93-325-1877-3
+            \n2. Bruce Schneier, “Applied Cryptography Protocols, Algorithms, and Source code in C”, Wiley Publications, 2nd Edition, ISBN: 9971-51-348-X</item>
+        <item>1. Cryptography and Network Security, Behrouz A. Forouzan, TMH, 2007.
+            \n2. Cryptography and Network Security, AtulKahate, TMH, 2003.</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item> Module 1 </item>
+        <item> Module 2 </item>
+        <item> Module 3 </item>
+        <item> Module 4 </item>
+        <item> Module 5 </item>
+        <item> Textbooks </item>
+        <item> Reference Books </item>
+    </string-array>
+
+    <string-array name="faculty_name">
+        <item> Prof. Akshatha G </item>
+        <item> Prof. Anitha M </item>
+        <item> Prof. Anupama Girish </item>
+        <item> Prof. Poornima K S </item>
+        <item> Prof. Shilpa D </item>
+        <item> Prof. Suman </item>
+        <item> Prof. Harish Kumar N </item>
+        <item> Prof. Sarala D V </item>
+    </string-array>
+
+    <string-array name="Akshatha1">
+        <item> 9916094815 </item>
+        <item> https://zoom.us/j/6401144007?pwd=SExDY3Vwc1JpUXFwVlUreHVCS1A2QT09 </item>
+        <item> Software Engineering </item>
+    </string-array>
+
+    <string-array name="Anitha2">
+        <item> 9731930967 </item>
+        <item> https://us04web.zoom.us/j/71342628303?pwd=cHRRMkNhNW9PVHlQMVZkanEvbk5WQT09 </item>
+        <item> Computer Networks </item>
+    </string-array>
+
+    <string-array name="Anupama3">
+        <item> 9900095268 </item>
+        <item> https://meet.google.com/ </item>
+        <item> Artificial Intelligence and Machine Learning </item>
+    </string-array>
+
+    <string-array name="Poornima4">
+        <item> 8123818582 </item>
+        <item> https://us04web.zoom.us/j/3873037877?pwd=aXFQYkNoekhmb2JPQXh0Rkw3SUpndz09 </item>
+        <item> Emerging Technologies </item>
+    </string-array>
+
+    <string-array name="Shilpa5">
+        <item> 8050779267 </item>
+        <item> https://zoom.us/j/9248280984?pwd=WUNYTndLc0ZBbnlJM1JrOG4wbld6dz09  </item>
+        <item> Mobile Application Development </item>
+    </string-array>
+
+    <string-array name="Suman6">
+        <item> 9902521080 </item>
+        <item> https://us04web.zoom.us/j/7092469916?pwd=MVViVE1aVlRLNFR1cHp3UGtEd2FwZz09 </item>
+        <item> Management Entrepreneurship </item>
+    </string-array>
+
+    <string-array name="Harish7">
+        <item> 9866456789 </item>
+        <item> https://us04web.zoom.us/j/7465613305?pwd=anppUEN3LzY3dm83cGplbEFmOHprQT09 </item>
+        <item> Cryptography </item>
+    </string-array>
+
+    <string-array name="Sarala8">
+        <item> 9387462712 </item>
+        <item> www.zoom.com </item>
+        <item> Object Oriented Modelling and Design </item>
+    </string-array>
+
+</resources>
